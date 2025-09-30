@@ -1,6 +1,6 @@
 ### ONLINE BULLETIN SCREEN ###
 label splashscreen:
-    $ update_news() ## THIS UPDATES THE JSON DATA FOR THE BOARD ##
+    $ update_timer() ## THIS UPDATES THE JSON DATA FOR THE BOARD ##
     if persistent.cur_event_timer is not None:
         $ persistent.cur_time_left = get_event_time_left(persistent.cur_event_timer["event_timer_date"])
     return
