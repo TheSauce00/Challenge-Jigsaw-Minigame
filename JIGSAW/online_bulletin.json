@@ -36,5 +36,13 @@
         "https://thesauce00.github.io/Challenge-Jigsaw-Minigame/JIGSAW/online_list.json"
     ],
     "maintenance": "False",
+    "title": "Halloween Puzzle Hunt",
+    "desc": "Players have to complete a puzzle during Halloween weekend",
+    "event_timer_date": {
+        "month": 10,
+        "day": 5,
+        "time": "11:59 PM",
+        "zone": "PDT"
+    },
     "bullet_file": "https://thesauce00.github.io/Challenge-Jigsaw-Minigame/JIGSAW/online_bulletin.rpy"
 }
