@@ -1,0 +1,40 @@
+{
+    "main_bulletin": [
+        {
+            "id": 0,
+            "bull_type": "screen_link",
+            "img": "https://thesauce00.github.io/Challenge-Jigsaw-Minigame/JIGSAW/example_0.jpg",
+            "active": "True",
+            "link": ""
+        },
+        {
+            "id": 1,
+            "bull_type": "web_link",
+            "img": "https://thesauce00.github.io/Challenge-Jigsaw-Minigame/JIGSAW/example_1.jpg",
+            "active": "True",
+            "link": "https://www.patreon.com/Sauce_is_Here"
+        },
+        {
+            "id": 2,
+            "bull_type": "newsletter_link",
+            "img": "https://thesauce00.github.io/Challenge-Jigsaw-Minigame/JIGSAW/example_3.jpg",
+            "active": "True",
+            "link": ""
+        },
+        {
+            "id": 3,
+            "bull_type": "list_link",
+            "img": "https://thesauce00.github.io/Challenge-Jigsaw-Minigame/JIGSAW/example_4.jpg",
+            "active": "True",
+            "link": ""
+        }
+    ],
+    "branches": [
+        "https://thesauce00.github.io/Challenge-Jigsaw-Minigame/JIGSAW/online_screen.json",
+        "https://thesauce00.github.io/Challenge-Jigsaw-Minigame/JIGSAW/online_web.json",
+        "https://thesauce00.github.io/Challenge-Jigsaw-Minigame/JIGSAW/online_newsletter.json",
+        "https://thesauce00.github.io/Challenge-Jigsaw-Minigame/JIGSAW/online_list.json"
+    ],
+    "maintenance": "False",
+    "bullet_file": "https://thesauce00.github.io/Challenge-Jigsaw-Minigame/JIGSAW/online_bulletin.rpy"
+}
